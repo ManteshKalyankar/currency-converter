@@ -1,0 +1,2 @@
+# currency-converter
+A simple, responsive currency converter built using HTML, CSS, and JavaScript. This Web App allows users to convert currencies in real-time, featuring a clean, user-friendly interface. It fetches live exchange rates and updates conversions dynamically.
